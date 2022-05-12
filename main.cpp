@@ -1,2 +1,4 @@
 void test();
-int MainFunction() {}
+
+int main() {}
+
